@@ -1,0 +1,251 @@
+
+@media all and (min-width: 1400px) {}
+
+@media (min-width: 1200px) and (max-width: 1400px) {}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .banner {
+        padding: 250px 0;
+    }
+    .banner-input {
+        padding: 8px 8px !important;
+        }
+        .banner button {
+            font-size: 20px;;
+            padding: 6px 0px !important;
+        }
+        .about h4 {
+            font-size: 16px;
+        }
+
+        .service-head p {
+            font-size: 14px;
+            margin-top: 20px;
+        }
+        .service-head h4 {
+            width: 69%;
+            margin: auto;
+        }
+        .service-item .content-item-service {
+            margin-top: 5px !important;
+        }
+        .history-head {
+            margin-bottom: 0 !important;
+        }
+}
+
+@media  (min-width: 768px) and (max-width: 991px) {
+    .banner {
+        padding: 200px 0;
+    }
+    .banner-input {
+        padding: 6px 7px !important;
+    }
+    .banner button {
+        font-size: 16px;
+        margin-top: 10px;
+    }
+    .about {
+        padding: 0;
+    }
+    .about-left h6 {
+        margin-bottom: 10px !important;
+      }
+      .about h4 {
+        font-size: 17px;
+    }
+    .quate {
+        font-size: 50px;
+    }
+    .user-sec {
+        padding: 0 !important;
+    }
+    .history-head {
+        margin: 0 !important;
+      }
+
+
+}
+
+@media (min-width: 668px) and (max-width: 767px) {
+    .banner {
+        padding: 150px 0;
+    }
+    .banner h4 {
+        width: 100% !important;
+        font-size: 17px;
+    }
+    .banner h1 {
+        font-size: 29px;
+    }
+    .banner-input {
+        padding: 8px 5px !important;
+    }
+    .banner button {
+        font-size: 17px;;
+        margin-top: 10px;
+    }
+    .about {
+        padding: 0px 0px !important;
+        margin: 0 !important;
+    }
+    .counter {
+        margin: 0 !important;
+      }
+    .counter p.p {
+        font-size: 74px;
+    }
+    .counter h4 {
+        margin: 0 !important;
+      }
+      .counter-item {
+        font-size: 22px !important;
+      }
+      .counter p.p {
+        font-size: 74px;
+        margin: 0;
+    }
+    .about h4 {
+        width: 90%;
+        font-size: 15px;
+    }
+    .about h6{
+        margin: 25px 0px !important;
+    }
+    .service-head h4 {
+        margin: 0 !important;
+        margin-bottom: 10px !important;
+    }
+    .user-sec {
+        padding: 0 !important;
+      }
+      .quate {
+        font-size: 60px;
+    }
+    .others figure img {
+        margin: 0 !important;
+        margin-top: 26px !important;
+      }
+      .contact form {
+        padding: 0px 31px 36px 31px !important;
+        margin: 25px 0;
+      }
+
+}
+
+@media (min-width: 500px) and (max-width: 667px) {
+    .banner {
+        padding: 30px 0;
+    }
+    .banner-input {
+        padding: 8px 5px !important;
+        margin-bottom: 5px;
+    }
+    .banner button {
+        font-size: 18px;
+    }
+    .banner h4 {
+        font-size: 15px;
+    }
+    .banner h1 {
+        font-size: 26px;
+    }
+    .counter p.p {
+        font-size: 40px;
+    }
+    .about {
+        padding: 0;
+    }
+    .about-left h6 {
+        margin-top: 0 !important;
+        padding-top: 0 !important;
+        margin-bottom: 10px !important;
+    }
+    .about h4 {
+        width: 90%;
+        font-size: 14px;
+        margin-bottom: 8px !important;
+    }
+    .portfolio {
+        margin: 0 !important;
+    }
+    .history p {
+        font-size: 16px !important;
+    }
+    footer p {
+        font-size: 13px !important;
+    }
+}
+@media all and (max-width: 499px){
+    .banner {
+        padding: 68px 0;
+    }
+    .banner h4 {
+        font-size: 15px;
+    }
+    .banner h1 {
+        font-size: 26px;
+    }
+    .banner-input {
+        padding: 5px 5px !important;
+    }
+    .counter {
+        margin-bottom: 0 !important;
+    }
+    .banner button {
+        font-size: 15px;;
+        margin-top: 10px !important;
+    }
+    .counter p.p {
+        font-size: 45px;
+    }
+    .about {
+        padding: 0 !important;
+        margin: 0 !important;
+    }
+    .about-left h6 {
+        padding: 0 !important;
+        margin: 10px 0 !important;
+        margin-top: ;
+    }
+    .about h4 {
+        font-size: 15px;
+        margin-bottom: 10px;
+    }
+    .service h4 {
+        font-size: 17px;
+        margin: ;
+    }
+    .pricing-item button {
+        padding: 7px 10px !important;
+    }
+    .history-head h1 {
+        margin-bottom: -30px !important;
+    }
+    .history p {
+        font-size: 16px !important;
+    }
+    .btn.btn-light.shadow.w-50.py-3.fs-5.fw-bold.text-danger {
+        padding: 8px 0 !important;
+    }
+    .contact form {
+        margin: -25px 0px;
+    }
+    .contact form h4 {
+        font-size: 17px;
+        margin: 0 auto;
+    }
+    .others button {
+        padding: 7px 10px;
+    }
+    .h2.text-center.py-4 {
+        font-size: 15px;
+    }
+
+}
+
+/* @media  (min-width: 420px) and (max-width: 499px)  {}
+
+@media  (min-width: 380px) and (max-width: 419px) {}
+
+@media all and (min-width: 389px) {} */

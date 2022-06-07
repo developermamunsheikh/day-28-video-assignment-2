@@ -1,0 +1,87 @@
+.menu li{
+    padding: 0 10px;
+}
+.menu li a{
+    color: #767676;
+    font-size: 16px;
+}
+body,p,h1,h2,h3,h4,h5,h6{
+    font-family: 'Work Sans', sans-serif;
+}
+img{
+    max-width: 100%;
+}
+.banner{
+    background-color: rgba(175, 169, 202, 0.1);
+}
+.banner .banner-left{
+    padding-top: 130px;
+}
+
+
+/* Pricining section */
+.pricing-table{
+    background-color: #F6F6FE;
+}
+.pricing-top h1 {
+	background: #b2b2fd13;
+	height: 70px;
+	width: 70px;
+	margin: 0 auto;
+	
+	border-radius: 50%;
+
+	line-height: 65px;
+}
+.pricing-top h3{
+    font-weight: 500;
+    margin-top: 10px;
+}
+.pricing-top:hover{
+    box-shadow: rgba(104, 48, 215, 0.1) 0px 5px 15px !important;
+    transition: .3s;
+}
+.pricing-top button{
+    transition: .4s;
+}
+
+.pricing-top:hover button{
+    background-color: silver !important;
+}
+
+/* Testimonia
+ */
+
+
+ .card {
+     position: relative;
+ }
+ .card .card-img figure img {
+	position: absolute;
+	top: -36px;
+	left: 10px;
+	width: 100px;
+	height: 100px;
+}
+.card button{
+    width: 100px;
+    box-shadow: rgba(191, 167, 238, 0.6) 0px 5px 15px !important;
+   margin: auto;
+   font-weight: bold;
+   transition: .5s;
+   border: transparent;
+   border-radius: 7px !important;
+}
+.card button:hover{
+    background-color: blue;
+    color: white !important;
+    border: none;
+}
+
+/* Contact-section */
+form{
+    padding: 80px 0px !important;
+}
+.contact-section{
+    background-color: #F4F5FD;
+}
